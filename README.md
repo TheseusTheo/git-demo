@@ -2,10 +2,6 @@
 
 Some description!
 
-## Subheader
-
-Wow, dis is ethan!
-
-## Local
+/43
 
 1. Open index.html in your browser.
